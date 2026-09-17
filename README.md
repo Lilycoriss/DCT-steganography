@@ -20,8 +20,15 @@ This algorithm operates in the image's frequency domain. To use it, we apply the
      ```
 
 5. **Start the script**:
+
+   To embed the message:
    ```bash
-   python nome_del_tuo_file.py
+   python Code/embedding.py
+   ```
+
+   To extract and decode the message:
+   ```bash
+   python Code/decoding.py
    ```
    
    
